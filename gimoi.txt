@@ -1,0 +1,9 @@
+- Có kinh nghi?m làm vi?c t?i thi?u 2 nam, l?p trình thành th?o 1 ngôn ng? l?p trình (Java, python, C++, …)
+- Có dam mê và thích tìm hi?u, nghiên c?u v? h?c máy, trí tu? nhân t?o và áp d?ng vào th?c ti?n.
+- Có kinh nghi?m làm vi?c v?i các h? th?ng h?c máy (SVM, HMM, Neural Network) là m?t l?i th?.
+- Uu tiên các ?ng viên có b?ng Th?c si ho?c cao hon chuyên ngành Khoa h?c máy tính.
+- Có kinh nghi?m s? d?ng, l?p trình trên các framework nhu TensorFlow, Theano, Torch, DL4J, ... là m?t l?i 
+
+
+
+tim hieu sau di 
